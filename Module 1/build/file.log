@@ -1,0 +1,298 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.1.30)  3 FEB 2022 23:58
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./file.tex
+(file.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2021-11-22>
+(C:\Users\Lawrence\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(C:\Users\Lawrence\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count183
+\c@section=\count184
+\c@subsection=\count185
+\c@subsubsection=\count186
+\c@paragraph=\count187
+\c@subparagraph=\count188
+\c@figure=\count189
+\c@table=\count190
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(C:\Users\Lawrence\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.st
+y
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\Lawrence\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(C:\Users\Lawrence\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.st
+y
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+ (C:\Users\Lawrence\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Users\Lawrence\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphic
+s.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Users\Lawrence\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.
+def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
+)
+(C:\Users\Lawrence\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2021/10/15 v2.17l AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\Lawrence\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(C:\Users\Lawrence\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks17
+\ex@=\dimen141
+)) (C:\Users\Lawrence\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.st
+y
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen142
+) (C:\Users\Lawrence\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2021/08/26 v2.02 operator names
+)
+\inf@bad=\count191
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count192
+\leftroot@=\count193
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count194
+\DOTSCASE@=\count195
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box50
+\strutbox@=\box51
+\big@size=\dimen143
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count196
+\c@MaxMatrixCols=\count197
+\dotsspace@=\muskip16
+\c@parentequation=\count198
+\dspbrk@lvl=\count199
+\tag@help=\toks18
+\row@=\count266
+\column@=\count267
+\maxfields@=\count268
+\andhelp@=\toks19
+\eqnshift@=\dimen144
+\alignsep@=\dimen145
+\tagshift@=\dimen146
+\tagwidth@=\dimen147
+\totwidth@=\dimen148
+\lineht@=\dimen149
+\@envbody=\toks20
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks21
+LaTeX Info: Redefining \[ on input line 2938.
+LaTeX Info: Redefining \] on input line 2939.
+)
+(C:\Users\Lawrence\AppData\Local\Programs\MiKTeX\tex/latex/caption\subcaption.s
+ty
+Package: subcaption 2020/10/07 v1.3j Sub-captions (AR)
+
+(C:\Users\Lawrence\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+
+(C:\Users\Lawrence\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen150
+\captionmargin@=\dimen151
+\captionwidth=\dimen152
+\caption@tempdima=\dimen153
+\caption@indent=\dimen154
+\caption@parindent=\dimen155
+\caption@hangindent=\dimen156
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count269
+\c@continuedfloat=\count270
+)
+\c@subfigure=\count271
+\c@subtable=\count272
+) (C:\Users\Lawrence\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2021/10/04 v2.5f Tabular extension package (FMi)
+\col@sep=\dimen157
+\ar@mcellbox=\box52
+\extrarowheight=\dimen158
+\NC@list=\toks22
+\extratabsurround=\skip52
+\backup@length=\skip53
+\ar@cellbox=\box53
+)
+(C:\Users\Lawrence\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-
+pdftex.def
+File: l3backend-pdftex.def 2021-10-18 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count273
+\l__pdf_internal_box=\box54
+) (file.aux)
+\openout1 = `file.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+
+(C:\Users\Lawrence\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf
+.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count274
+\scratchdimen=\dimen159
+\scratchbox=\box55
+\nofMPsegments=\count275
+\nofMParguments=\count276
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count277
+\MPscratchDim=\dimen160
+\MPnumerator=\count278
+\makeMPintoPDFobject=\count279
+\everyMPtoPDFconversion=\toks24
+)
+(C:\Users\Lawrence\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopd
+f-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\Lawrence\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sy
+s.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+ [1
+
+{C:/Users/Lawrence/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [1]
+<ResistorMeasurment.jpg, id=13, 3260.18pt x 3035.34pt>
+File: ResistorMeasurment.jpg Graphic file (type jpg)
+<use ResistorMeasurment.jpg>
+Package pdftex.def Info: ResistorMeasurment.jpg  used on input line 44.
+(pdftex.def)             Requested size: 227.62204pt x 211.8934pt.
+ [2 <./ResistorMeasurment.jpg>] [3]
+<EquivalentResistance.jpg, id=20, 3034.33624pt x 2299.59125pt>
+File: EquivalentResistance.jpg Graphic file (type jpg)
+<use EquivalentResistance.jpg>
+Package pdftex.def Info: EquivalentResistance.jpg  used on input line 76.
+(pdftex.def)             Requested size: 175.49881pt x 132.9869pt.
+<SkinResistor.jpg, id=21, 2558.55875pt x 1547.7825pt>
+File: SkinResistor.jpg Graphic file (type jpg)
+<use SkinResistor.jpg>
+Package pdftex.def Info: SkinResistor.jpg  used on input line 81.
+(pdftex.def)             Requested size: 175.49881pt x 106.15944pt.
+ [4 <./EquivalentResistance.jpg> <./SkinResistor.jpg>] [5]
+<VoltageDivider.jpg, id=30, 3034.33624pt x 942.52126pt>
+File: VoltageDivider.jpg Graphic file (type jpg)
+<use VoltageDivider.jpg>
+Package pdftex.def Info: VoltageDivider.jpg  used on input line 97.
+(pdftex.def)             Requested size: 227.62204pt x 70.70042pt.
+<CurrentDivider.jpg, id=31, 3034.33624pt x 632.3625pt>
+File: CurrentDivider.jpg Graphic file (type jpg)
+<use CurrentDivider.jpg>
+Package pdftex.def Info: CurrentDivider.jpg  used on input line 103.
+(pdftex.def)             Requested size: 227.62204pt x 47.43478pt.
+<PhotoResistor.jpg, id=32, 3034.33624pt x 1420.30624pt>
+File: PhotoResistor.jpg Graphic file (type jpg)
+<use PhotoResistor.jpg>
+Package pdftex.def Info: PhotoResistor.jpg  used on input line 109.
+(pdftex.def)             Requested size: 227.62204pt x 106.54004pt.
+
+Overfull \hbox (3.3718pt too wide) in paragraph at lines 132--132
+[]|\OT1/cmr/m/n/12 Resistors
+ []
+
+
+Overfull \hbox (1.19112pt too wide) in paragraph at lines 132--132
+[]|\OT1/cmr/m/n/12 Theoretical
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 132--132
+\OT1/cmr/m/n/12 Volt-age
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 132--132
+[]|\OT1/cmr/m/n/12 Measured
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 132--132
+\OT1/cmr/m/n/12 Volt-age
+ []
+
+
+Overfull \hbox (1.19112pt too wide) in paragraph at lines 132--132
+[]|\OT1/cmr/m/n/12 Theoretical
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 132--132
+\OT1/cmr/m/n/12 Cur-rent
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 132--133
+[]|\OT1/cmr/m/n/12 Measured
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 132--133
+\OT1/cmr/m/n/12 Cur-rent
+ []
+
+[6 <./VoltageDivider.jpg> <./CurrentDivider.jpg> <./PhotoResistor.jpg>]
+[7] (file.aux) ) 
+Here is how much of TeX's memory you used:
+ 3461 strings out of 478659
+ 60546 string characters out of 2844498
+ 361746 words of memory out of 3000000
+ 21573 multiletter control sequences out of 15000+600000
+ 408658 words of font info for 45 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 67i,9n,77p,530b,482s stack positions out of 5000i,500n,10000p,200000b,80000s
+<C:/Users/Lawrence/AppData/Local/Programs/MiKTeX/fonts/type1/pu
+blic/amsfonts/cm/cmbx12.pfb><C:/Users/Lawrence/AppData/Local/Programs/MiKTeX/fo
+nts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Lawrence/AppData/Local/Progra
+ms/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Lawrence/AppData/
+Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Lawren
+ce/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/U
+sers/Lawrence/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr1
+2.pfb><C:/Users/Lawrence/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfo
+nts/cm/cmr8.pfb>
+Output written on "C:\Users\Lawrence\Desktop\UCLA\Classes\ECE11L\Module 1\build
+\file.pdf" (8 pages, 7157619 bytes).
+PDF statistics:
+ 70 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 31 words of extra memory for PDF output out of 10000 (max. 10000000)
+
