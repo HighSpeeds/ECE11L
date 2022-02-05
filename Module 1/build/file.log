@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.1.30)  3 FEB 2022 23:58
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.1.30)  5 FEB 2022 01:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -145,7 +145,8 @@ pdftex.def
 File: l3backend-pdftex.def 2021-10-18 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count273
 \l__pdf_internal_box=\box54
-) (file.aux)
+)
+(C:\Users\Lawrence\Desktop\UCLA\Classes\ECE11L\Module 1\build\file.aux)
 \openout1 = `file.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
@@ -271,28 +272,35 @@ Underfull \hbox (badness 10000) in paragraph at lines 132--133
  []
 
 [6 <./VoltageDivider.jpg> <./CurrentDivider.jpg> <./PhotoResistor.jpg>]
-[7] (file.aux) ) 
+[7]
+<Lab4.jpg, id=40, 3034.33624pt x 1305.87875pt>
+File: Lab4.jpg Graphic file (type jpg)
+<use Lab4.jpg>
+Package pdftex.def Info: Lab4.jpg  used on input line 163.
+(pdftex.def)             Requested size: 227.62204pt x 97.9566pt.
+ [8 <./Lab4.jpg>] [9] [10]
+(C:\Users\Lawrence\Desktop\UCLA\Classes\ECE11L\Module 1\build\file.aux) ) 
 Here is how much of TeX's memory you used:
- 3461 strings out of 478659
- 60546 string characters out of 2844498
+ 3473 strings out of 478659
+ 60839 string characters out of 2844498
  361746 words of memory out of 3000000
- 21573 multiletter control sequences out of 15000+600000
+ 21585 multiletter control sequences out of 15000+600000
  408658 words of font info for 45 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 67i,9n,77p,530b,482s stack positions out of 5000i,500n,10000p,200000b,80000s
-<C:/Users/Lawrence/AppData/Local/Programs/MiKTeX/fonts/type1/pu
-blic/amsfonts/cm/cmbx12.pfb><C:/Users/Lawrence/AppData/Local/Programs/MiKTeX/fo
-nts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Lawrence/AppData/Local/Progra
-ms/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Lawrence/AppData/
-Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Lawren
-ce/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/U
-sers/Lawrence/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr1
+ 67i,9n,77p,933b,482s stack positions out of 5000i,500n,10000p,200000b,80000s
+<C:/Us
+ers/Lawrence/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx1
 2.pfb><C:/Users/Lawrence/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfo
-nts/cm/cmr8.pfb>
+nts/cm/cmex10.pfb><C:/Users/Lawrence/AppData/Local/Programs/MiKTeX/fonts/type1/
+public/amsfonts/cm/cmmi12.pfb><C:/Users/Lawrence/AppData/Local/Programs/MiKTeX/
+fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Lawrence/AppData/Local/Progr
+ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Lawrence/AppData/
+Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Lawren
+ce/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb>
 Output written on "C:\Users\Lawrence\Desktop\UCLA\Classes\ECE11L\Module 1\build
-\file.pdf" (8 pages, 7157619 bytes).
+\file.pdf" (11 pages, 8099081 bytes).
 PDF statistics:
- 70 PDF objects out of 1000 (max. 8388607)
+ 80 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 31 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 36 words of extra memory for PDF output out of 10000 (max. 10000000)
 
