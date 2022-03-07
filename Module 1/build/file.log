@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.1.30)  5 FEB 2022 01:06
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.1.30)  8 FEB 2022 11:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -203,71 +203,71 @@ Package pdftex.def Info: ResistorMeasurment.jpg  used on input line 44.
 <EquivalentResistance.jpg, id=20, 3034.33624pt x 2299.59125pt>
 File: EquivalentResistance.jpg Graphic file (type jpg)
 <use EquivalentResistance.jpg>
-Package pdftex.def Info: EquivalentResistance.jpg  used on input line 76.
+Package pdftex.def Info: EquivalentResistance.jpg  used on input line 77.
 (pdftex.def)             Requested size: 175.49881pt x 132.9869pt.
 <SkinResistor.jpg, id=21, 2558.55875pt x 1547.7825pt>
 File: SkinResistor.jpg Graphic file (type jpg)
 <use SkinResistor.jpg>
-Package pdftex.def Info: SkinResistor.jpg  used on input line 81.
+Package pdftex.def Info: SkinResistor.jpg  used on input line 82.
 (pdftex.def)             Requested size: 175.49881pt x 106.15944pt.
  [4 <./EquivalentResistance.jpg> <./SkinResistor.jpg>] [5]
 <VoltageDivider.jpg, id=30, 3034.33624pt x 942.52126pt>
 File: VoltageDivider.jpg Graphic file (type jpg)
 <use VoltageDivider.jpg>
-Package pdftex.def Info: VoltageDivider.jpg  used on input line 97.
+Package pdftex.def Info: VoltageDivider.jpg  used on input line 98.
 (pdftex.def)             Requested size: 227.62204pt x 70.70042pt.
 <CurrentDivider.jpg, id=31, 3034.33624pt x 632.3625pt>
 File: CurrentDivider.jpg Graphic file (type jpg)
 <use CurrentDivider.jpg>
-Package pdftex.def Info: CurrentDivider.jpg  used on input line 103.
+Package pdftex.def Info: CurrentDivider.jpg  used on input line 104.
 (pdftex.def)             Requested size: 227.62204pt x 47.43478pt.
 <PhotoResistor.jpg, id=32, 3034.33624pt x 1420.30624pt>
 File: PhotoResistor.jpg Graphic file (type jpg)
 <use PhotoResistor.jpg>
-Package pdftex.def Info: PhotoResistor.jpg  used on input line 109.
+Package pdftex.def Info: PhotoResistor.jpg  used on input line 110.
 (pdftex.def)             Requested size: 227.62204pt x 106.54004pt.
 
-Overfull \hbox (3.3718pt too wide) in paragraph at lines 132--132
+Overfull \hbox (3.3718pt too wide) in paragraph at lines 133--133
 []|\OT1/cmr/m/n/12 Resistors
  []
 
 
-Overfull \hbox (1.19112pt too wide) in paragraph at lines 132--132
+Overfull \hbox (1.19112pt too wide) in paragraph at lines 133--133
 []|\OT1/cmr/m/n/12 Theoretical
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 132--132
+Underfull \hbox (badness 10000) in paragraph at lines 133--133
 \OT1/cmr/m/n/12 Volt-age
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 132--132
+Underfull \hbox (badness 10000) in paragraph at lines 133--133
 []|\OT1/cmr/m/n/12 Measured
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 132--132
+Underfull \hbox (badness 10000) in paragraph at lines 133--133
 \OT1/cmr/m/n/12 Volt-age
  []
 
 
-Overfull \hbox (1.19112pt too wide) in paragraph at lines 132--132
+Overfull \hbox (1.19112pt too wide) in paragraph at lines 133--133
 []|\OT1/cmr/m/n/12 Theoretical
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 132--132
+Underfull \hbox (badness 10000) in paragraph at lines 133--133
 \OT1/cmr/m/n/12 Cur-rent
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 132--133
+Underfull \hbox (badness 10000) in paragraph at lines 133--134
 []|\OT1/cmr/m/n/12 Measured
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 132--133
+Underfull \hbox (badness 10000) in paragraph at lines 133--134
 \OT1/cmr/m/n/12 Cur-rent
  []
 
@@ -276,7 +276,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 132--133
 <Lab4.jpg, id=40, 3034.33624pt x 1305.87875pt>
 File: Lab4.jpg Graphic file (type jpg)
 <use Lab4.jpg>
-Package pdftex.def Info: Lab4.jpg  used on input line 163.
+Package pdftex.def Info: Lab4.jpg  used on input line 164.
 (pdftex.def)             Requested size: 227.62204pt x 97.9566pt.
  [8 <./Lab4.jpg>] [9] [10]
 (C:\Users\Lawrence\Desktop\UCLA\Classes\ECE11L\Module 1\build\file.aux) ) 
@@ -298,7 +298,7 @@ ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Lawrence/AppData/
 Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Lawren
 ce/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb>
 Output written on "C:\Users\Lawrence\Desktop\UCLA\Classes\ECE11L\Module 1\build
-\file.pdf" (11 pages, 8099081 bytes).
+\file.pdf" (11 pages, 8101025 bytes).
 PDF statistics:
  80 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

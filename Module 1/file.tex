@@ -43,6 +43,7 @@ $$\sum I_k=0$$
 \begin{figure}[h]
 \includegraphics[width=8cm]{ResistorMeasurment}
 \centering
+\caption{Lab 1 setup}
 \end{figure}
 \section*{Measurements}
 \begin{center}
@@ -51,11 +52,11 @@ $$\sum I_k=0$$
 Resistance ($\Omega$) & Voltage (V) & Current (A)\\
 \hline
 \hline
-$100\Omega$ & &\\
+$100\Omega$ &0.353V &3.216mA\\
 \hline
-$680\Omega$ & &\\
+$680\Omega$ &1 &1.412mA\\
 \hline
-$1200\Omega$ & &\\
+$1200\Omega$ &1 &0.8297mA\\
 \hline
 \end{tabular}
 \end{center}
@@ -64,7 +65,7 @@ $1200\Omega$ & &\\
 \section*{Discussion}
 The Measured resistances were $100.1\Omega$, $704.3\Omega$, and $1194\Omega$ for the $100\Omega$, $680\Omega$, and $1200\Omega$ resistors. This falls within the given 5\% variance for each resistor.
 
-Yes these values
+Yes these values satisfy Ohms law. From Ohms law we have that the measured voltage across the $1.2k\Omega$ resistor, $1V$ must be equal to the measured current times the measured resistance, $0.99V$.   The difference between these two values is $1\%$ which can also be attributed to observation error.
 
 The AD2 unit could measure the current and the resistance of the resistor by measuring the voltage drop across the reference resistor. Since this resistor's resistance is know, therefore, from ohms law the current across it can be calculated. Since the resistor being measured is in series with this one, that amount of current would also have to flow through that resistor. And since the voltage drop across this resistor and the current flowing across is know, its resistance can thus be derived. 
 \pagebreak
@@ -162,6 +163,7 @@ The photoresistor's resistance increased as the amount of light it was exposed t
 \begin{figure}[h]
 \includegraphics[width=8cm]{Lab4}
 \centering
+\caption{Lab 4 setup}
 \end{figure}
 \section*{Measurements: Lab 4}
 \begin{tabular}{||c|c|c|c|c||}
@@ -191,6 +193,9 @@ $4.34mA$ and $4.36mA$. Or in other words, the current across these two resistors
 Furthermore, according to KCL, the current flowing across the $680\Omega$ resistor must be equal to the sum of the current flowing across the $470\Omega$ resistor and $2.2k\Omega$ resistor. The current through the $680\Omega$ resistor is $4.36mA$, and the sum of the current flowing through the $470\Omega$ and the $2.2k\Omega$ resistor is $4.185mA$. The difference between these two values is $4\%$, which can also be attributed to observation error. Likewise, from KCL we have that the current flowing across the $680\Omega$ resistor must be equal to the sum of the current flowing across the $470\Omega$ resistor and $22\Omega$ resistor.The current through the $680\Omega$ resistor is $4.36mA$, and the sum of the current flowing through the $470\Omega$ and the $2.2k\Omega$ resistor is $4.405mA$. The difference between these two values is $1\%$, which can also be attributed to observation error.
 
 From KVL we have the sum of the voltages across the  $100\Omega$, $680\Omega$, and $470\Omega$ resistor is $5V$. The measured sum of these voltages is $5.032V$. The diffrence between these two values is $0.6\%$ which can also be attributed to observation error.
+
+Furthermore, from KVL we have the sum of the voltages across the  $100\Omega$, $680\Omega$, $22\omega$, and $2.2k\Omega$ resistor is $5V$. The measured sum of these voltages is $5.021V$. The diffrence between these two values is $0.4\%$ which can also be attributed to observation error.
 \pagebreak
 \section*{Conclusion}
+In this lab we became familiar with basic circuit construction and operation of the Analog  Discovery 2 (AD2) device. We learned to measure voltage, and resistance with the voltmeter and the impedance analyzer on the AD2. And we experimentally verified ohms law, equivalent resistance, and Kirchhoff’s Laws.
 \end{document}
